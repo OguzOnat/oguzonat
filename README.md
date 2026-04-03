@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oğuz Onat
 
-<!--
-**OguzOnat/oguzonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yerel işletmeler için web sitesi, otomasyon ve AI çözümleri geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Neler Yapıyorum?
+- Web sitesi geliştirme
+- İş otomasyonu
+- AI entegrasyonları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projeler
+- Restoran web sitesi - Otomasyon
+- Kişisel portfolyo ve hizmet tanıtımı
+- Lojistik firma sitesi
+
+## 📩 İletişim
+🌐 https://onatoguz.com
