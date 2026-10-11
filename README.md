@@ -10,7 +10,6 @@ Yerel işletmeler için web sitesi, otomasyon ve AI çözümleri geliştiriyorum
 ## 💼 Projeler
 - Restoran web sitesi - Otomasyon
 - Kişisel portfolyo ve hizmet tanıtımı
-- Lojistik firma sitesi
 
 ## 📩 İletişim
 🌐 https://onatoguz.com
